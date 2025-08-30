@@ -1,5 +1,5 @@
 # About
-This is the personl site for [Naufal](https://github.com/naufalfaisa).
+This is the personal site for [Naufal](https://github.com/naufalfaisa).
 
 > ![Last.fm playing](https://lastfm-recently-played.vercel.app/api?user=naufalfaisa&width=500)
 
